@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @septriansyah  
+- 👀 I’m interested in technology, graphic design, data analyst, and educational research.  
+- 🌱 I’m currently learning computer science, multimedia, and web development.  
+- 💞️ I’m looking to collaborate on digital innovation projects, particularly in education and stress detection technologies.  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/septriansyah) | [Instagram](https://www.instagram.com/septri_n.syah/?hl=en) | [Email](mailto:septriansyah31@gmail.com)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I have experience as a layout designer and have contributed to multiple student magazines!  
