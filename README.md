@@ -1,4 +1,4 @@
-# [Nama Kamu]
+# Dewa Septriansyah
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=2D3436&center=true&vCenter=true&width=435&lines=Web+Developer;UI%2FUX+Designer;Computer+Science+Student" alt="Typing SVG" />
@@ -39,22 +39,10 @@ I am a **Computer Science Education** student at **Universitas Pendidikan Indone
 
 ---
 
-### GitHub Performance
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[username-kamu]&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a&icon_color=7aa2f7" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username-kamu]&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://instagram.com/[username-kamu]">Instagram</a> • 
-  <a href="https://linkedin.com/in/[username-kamu]">LinkedIn</a> • 
-  <a href="https://github.com/[username-kamu]">GitHub</a>
+  <a href="https://instagram.com/septri_n.syah">Instagram</a> • 
+  <a href="https://linkedin.com/in/dewaseptriansyah">LinkedIn</a> • 
+  <a href="https://github.com/septriansyah">GitHub</a>
 </p>
 
 <p align="center">
